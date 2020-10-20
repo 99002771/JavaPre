@@ -17,7 +17,7 @@ public class Main
         catch (MyException ex) 
         { 
             System.out.println("Caught the Exception"); 
-                 System.out.println(ex.getMessage()); 
+                 System.out.println(ex); 
         } 
     } 
 }
