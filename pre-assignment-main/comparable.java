@@ -32,7 +32,7 @@ public int compareTo(User user){
 ////////////////////////////////////////////
 import java.util.ArrayList;
 public class ComparableExample{
-    public static void public static void main (String[] args) {
+    public static void main (String[] args) {
       List<User> users=new ArrayList<User>();
       User user1=new User(3,"siri");
       User user2=new User(2,"ram");
